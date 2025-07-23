@@ -1,3 +1,5 @@
+create database bank
+
 use bank
 
 CREATE TABLE accounts (
